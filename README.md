@@ -23,5 +23,6 @@
 
 The HTML document thoroughly explains NumPy, highlighting its significance in the Python ecosystem for numerical computing. NumPy's powerful features, such as N-dimensional arrays, mathematical functions, and broadcasting, make it an essential tool for data science, machine learning, scientific computing, and image processing. By providing efficient array handling and integration capabilities, NumPy facilitates a wide range of numerical tasks, making it a cornerstone library in the Python programming language. This foundational role underscores NumPy's importance in both academic research and industry applications, demonstrating its versatility and efficiency in handling complex computational problems.
 
-## Name : B.Navyasri
-## email:bevaranavyasri2005@gmail.com
+## Name     : B.Navyasri
+## email    : bevaranavyasri2005@gmail.com
+## linkedin : https://www.linkedin.com/in/navyasri-bevara-5a4414308/
